@@ -1,2 +1,2 @@
 # CODSOFT
-This is Simple Arithmetic Operation Calculator
+TCALCULATOR WITH BASIC ARITHMETIC OPERATIONS
